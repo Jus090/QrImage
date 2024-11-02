@@ -12,7 +12,7 @@ body {
 
 .content {
   margin-top: 25px;
-  max-width: 300px;
+  width: 275px;
   padding: 18px;
   border-radius: 20px;
   background: white;
